@@ -46,5 +46,13 @@ export default {
     fullFormat: 'yyyy/MM/dd',
     dayEventsTitle: '모든 이벤트',
     notHaveEvents: '일정이 없습니다'
+  },
+  sk: {
+    dayNames: ["Ne", "Po", "Ut", "St", "Št", "Pi", "So"],
+    monthNames: ["Január", "Február", "Marec", "Apríl", "Máj", "Jún", "Júl", "August", "September", "Október", "November", "December"],
+    format: 'MM yyyy',
+    fullFormat: 'dd. MM. yyyy',
+    dayEventsTitle: 'Všetky udalosti',
+    notHaveEvents: 'Nie sú žiadne udalosti'
   }
 }
