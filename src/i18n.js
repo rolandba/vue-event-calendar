@@ -48,7 +48,7 @@ export default {
     notHaveEvents: '일정이 없습니다'
   },
   sk: {
-    dayNames: ["Ne", "Po", "Ut", "St", "Št", "Pi", "So"],
+    dayNames: ["Po", "Ut", "St", "Št", "Pi", "So", "Ne"],
     monthNames: ["Január", "Február", "Marec", "Apríl", "Máj", "Jún", "Júl", "August", "September", "Október", "November", "December"],
     format: 'MM yyyy',
     fullFormat: 'dd. MM. yyyy',
